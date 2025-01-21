@@ -27,7 +27,6 @@ Add the "Atlas Tile wrapper" shader and adjust the parameters :\
 AO Light Affect = Strength of the AO texture\
 Emission Energy = Strength of Emission Texture\
 Normal Scale = Bumpiness of the Normal Map texture\
-UV1 Offset = offset to the texture (useful for Fluid/Water Atlas Textures)\
 Tile Count = Number of tiles in the Atlas Texture (should be the same for now)\
 Scale = Number of repetitions\
 Albedo,Specular,Metalic,Roughness,Emission,Normal,AO = Atlas Textures\
