@@ -1,13 +1,14 @@
 https://xtremezero.itch.io/atlas-tile-wrapper\
 \
 Atlas tile wrapper allows you to repeat tiles in a Atlas Texture in both direction (just like trim sheets)\
-**WHY?**\
+\
+***WHY?***\
 Reduce material setup time and baking multiple objects at once ,\
 Reduce draw calls,\
 smaller textures but better resolution after repetition.\
 
 
-**How to use (Blender):**\
+***How to use (Blender):***\
 Create a material\
 Import Atlas Textures and set them to (Closest)\
 Add the NodeTree "Atlas Tile mapper" and adjust the parameters :\
@@ -19,7 +20,7 @@ Project UVs for each part in your model to the desired tile (Cube map preferred)
 Note: adjusting the scale in the UV map will reduce/increase the repetition\
 
 
-**How to use (Godot):**\
+***How to use (Godot):***\
 Import Atlas Textures\
 Create a shader material\
 Add the "Atlas Tile wrapper" shader and adjust the parameters :\
