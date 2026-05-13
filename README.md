@@ -1,5 +1,5 @@
-[![View on itch.io](https://img.shields.io/badge/View%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io)](https://xtremezero.itch.io/atlas-tile-wrapper)
 # Atlas Tile Wrapper
+[![View on itch.io](https://img.shields.io/badge/View%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io)](https://xtremezero.itch.io/atlas-tile-wrapper)
 
 The **Atlas Tile Wrapper** is a utility designed to enable seamless texture repetition for individual tiles within a single atlas. Functioning similarly to trim sheets, it allows for two-way repetition of sub-textures while maintaining the memory efficiency of a unified texture sheet.
 
